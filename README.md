@@ -20,10 +20,13 @@ Download the zip file from my Github, then save the project as Xamp/htdocs.
 ### Setting Up
 
 From your code Editor (Vs Code) launch you react with `npm start`.
-From your commande prompt go to your file and launch symfony with `symfony server:start`
+From your commande prompt go to your file and launch symfony with `symfony server:start`.
+
+
 
 ## On XAMP dependancies
 
+Import the data in your database
 
 ## On Linux Commands
 
