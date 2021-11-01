@@ -1,2 +1,4 @@
-# prj-framework-cir3
-Projet sous symfony et react pour calculer l'air nécessaire dans une bouteille et le temps passer dans l'eau pour une plongée
+### prj-framework-cir3
+
+This project is under Symfony and React dependancies, to calculate the air needed in a tank and the time spent on each step in the water for a dive.
+
